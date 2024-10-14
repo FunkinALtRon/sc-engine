@@ -1,0 +1,9 @@
+{
+    "music": "freakyMusic",
+    "bpm": 102,
+    "mainMenuItems": [
+        "story mode",
+        "freeplay",
+        "options"
+    ]
+}

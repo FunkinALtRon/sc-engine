@@ -1,0 +1,5 @@
+<stage zoom="0.9" path="stages/stage">
+    <sprite name="stageback" x="0" y="0" sprite="stageback" scrollX="0.6" scrollY="0.6"/>
+    <sprite name="stagefront" x="0" y="0" sprite="stagefront" scrollX="0.9" scrollY="0.9"/>
+    <sprite name="stagefront" x="0" y="0" sprite="stagefront" scrollX="1.2" scrollY="1.2"/>
+</stage>
