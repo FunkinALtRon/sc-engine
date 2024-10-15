@@ -1,0 +1,78 @@
+{
+    "healthBar": {
+        "healthOverlay": "healthBar",
+        "width": 1,
+        "height": 1,
+        "position": [0,0]
+    },
+    "notes": {
+        "scale": 1,
+        "spacing": 1,
+        "height": 0,
+        "data": {
+            "l": "purple",
+            "d": "blue",
+            "u": "green",
+            "r": "red"
+        },
+        "strumLine": {
+            "offsets": [0,0],
+            "data": {
+                "l": "arrowLEFT",
+                "d": "arrowDOWN",
+                "u": "arrowUP",
+                "r": "arrowRIGHT"
+            }
+        },
+        "holdPieces": {
+            "offsets": [0,0],
+            "data": {
+                "l": ["purple hold piece", "pruple end hold"],
+                "d": ["blue hold piece", "blue hold end"],
+                "u": ["green hold piece", "green hold end"],
+                "r": ["red hold piece", "red hold end"]
+            }
+        },
+        "confirm": {
+            "offsets": [0,0],
+            "data": {
+                "l": "left confirm",
+                "d": "down confirm",
+                "u": "up confirm",
+                "r": "right confirm"
+            }
+        },
+        "press": {
+            "offsets": [0,0],
+            "data": {
+                "l": "left press",
+                "d": "down press",
+                "u": "up press",
+                "r": "right press"
+            }
+        }
+    },
+    "popup": {
+        "countdown": {
+            "scale": 1,
+            "data": [
+                ["", "introTHREE"],
+                ["ready", "introTWO"],
+                ["set", "introONE"],
+                ["go", "introGO"]
+            ]
+        },
+        "judgement": {
+            "scale": 1,
+            "data": {
+                "30": ["sick", 350],
+                "45": ["good", 200],
+                "55": ["bad", 100],
+                "65": ["shit", 90]
+            },
+            "pressedInput": 10
+        }
+    },
+    "defaultFont": "vrc",
+    "showDadNotes": true
+}
