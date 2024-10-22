@@ -1,0 +1,8 @@
+<credits>
+    <team name="engine Team">
+        <author name="ron", description="did everything for this engine" link="link here" color="0xffff00" icon="">
+    </team>
+    <!-- <team name="funkin Team">
+        <author name="ron", description="did everything for this engine" link="link here" color="0xffff00" icon="">
+    </team>  -->
+</credits>

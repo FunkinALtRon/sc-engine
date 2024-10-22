@@ -1,0 +1,30 @@
+<options>
+    <keybind name = "keybinds">
+        <keyGroup name="notes">
+            <key name="left" keys='["a", "left arrow"]'/>
+            <key name="down" keys='["s", "down arrow"]'/>
+            <key name="up" keys='["w", "up arrow"]'/>
+            <key name="right" keys='["d", "right arrow"]'/>
+        </keyGroup>
+        <keyGroup name="ui">
+            <key name="left" keys='["a", "left arrow"]'/>
+            <key name="down" keys='["s", "down arrow"]'/>
+            <key name="up" keys='["w", "up arrow"]'/>
+            <key name="right" keys='["d", "right arrow"]'/>
+            <key name="accept" keys='["enter", "space"]'/>
+            <key name="back" keys='["backspace", "escape"]'/>
+            <key name="reset" keys='["r", ""]'/>
+            <key name="pause" keys='["enter", "escape"]'/>
+        </keyGroup>
+    </keybind>
+    <subMenu name = "gameplay">
+        <bool name="downsroll" value="false"/>
+        <bool name="middlescroll" value="false"/>
+        <bool name="flashing lights" value="true"/>
+    </subMenu>
+    <subMenu name = "performance">
+        <bool name="low detail" value="false"/>
+        <bool name="less clones" value="false"/>
+        <range name="fps" min="30" max="240"/>
+    </subMenu>
+</options>

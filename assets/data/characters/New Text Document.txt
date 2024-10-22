@@ -1,0 +1,56 @@
+{
+    "path": "characters/boyfriend",
+    "scale": 1,
+    "animations": {
+        "idle": {
+            "anim": "BF idle dance",
+            "fps": 24,
+            "offsets": [0,0]
+        },
+        "singLEFT": {
+            "anim": "BF idle dance",
+            "fps": 24,
+            "offsets": [0,0]
+        },
+        "singDOWN": {
+            "anim": "BF NOTE DOWN",
+            "fps": 24,
+            "offsets": [0,0]
+        },
+        "singUP": {
+            "anim": "BF idle dance",
+            "fps": 24,
+            "offsets": [0,0]
+        },
+        "singRIGHT": {
+            "anim": "BF idle dance",
+            "fps": 24,
+            "offsets": [0,0]
+        },
+        "singLEFTmiss": {
+            "anim": "BF NOTE LEFT MISS",
+            "fps": 24,
+            "offsets": [0,0]
+        },
+        "singDOWNmiss": {
+            "anim": "BF NOTE DOWN MISS",
+            "fps": 24,
+            "offsets": [0,0]
+        },
+        "singUPmiss": {
+            "anim": "BF idle dance",
+            "fps": 24,
+            "offsets": [0,0]
+        },
+        "singRIGHTmiss": {
+            "anim": "BF idle dance",
+            "fps": 24,
+            "offsets": [0,0]
+        },
+        "hey": {
+            "anim": "BF HEY!!",
+            "fps": 24,
+            "offsets": [0,0]
+        }
+    }
+}
